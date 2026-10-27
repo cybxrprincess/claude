@@ -2,21 +2,46 @@
   "spinnerVerbs": {
     "mode": "append",
     "verbs": [
-      "Snuggling",
       "Bamboozling",
-      "Flibbertigibbeting",
+      "Bankrolling",
+      "Bumblebeeing",
+      "Burrowing",
+      "Canoodling",
+      "Capitalizing",
+      "Cattywampusing",
+      "Compounding",
+      "Cozying",
+      "Cuddling",
       "Discombobulating",
-      "Hobnobbing",
+      "Diversifying",
+      "Flibbertigibbeting",
       "Gallivanting",
+      "Hobnobbing",
+      "Hustling",
+      "Leveraging",
+      "Lollygagging",
+      "Marshmallowing",
+      "Monetizing",
+      "Nestling",
+      "Pillowing",
+      "Rapscallioning",
       "Shenaniganing",
       "Skedaddling",
-      "Rapscallioning",
-      "Lollygagging",
-      "Whatchamacalliting",
-      "Cattywampusing",
-      "Bumblebeeing",
+      "Snuggling",
       "Tomfoolering",
-      "Monetizing"
+      "Vaulting",
+      "Whatchamacalliting"
+    ]
+  },
+  "spinnerTipsOverride": {
+    "label": "Vibe check",
+    "excludeDefault": false,
+    "tips": [
+      "Hydrate. Your future self is counting on it.",
+      "Small commits are a love language.",
+      "If it works on the first try, be suspicious.",
+      "Branch, PR, merge: the circle of life.",
+      "Every great repo started with one bad README."
     ]
   }
 }
