@@ -1,0 +1,5 @@
+Hydrate. Your future self is counting on it.
+Small commits are a love language.
+If it works on the first try, be suspicious.
+Branch, PR, merge: the circle of life.
+Every great repo started with one bad README.
